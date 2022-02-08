@@ -6,3 +6,4 @@
 - But I change content and add some fiches
 - Use HTML, CSS, jquery
 - Use Adaptive Layout
+- This site was built using [GitHub Pages](https://roamer39.github.io/project_1_painters/).
